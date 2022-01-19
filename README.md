@@ -19,6 +19,8 @@ Googling : 41.8954 N 12.4769 E
 
 Response : `WmtkdyBscXlyb3lodiBlcmdsaHYgaWR1IGR6ZGIsCkZkcSB1ZHVob2IgZWggdmhocSBycSBkIHZ4cXFiIGdkYiwKSHF3bGZodiBoeWh1YnJxaCBleHcgcnFvYiBpcnUgZCB2a3J1dyB6a2xvaCwKSXVycCBycWggc2h1dnNoZndseWggbHYgdmhocSBkcSBkbHZvaC4=`
 
+Token generated along with response : `ZhDiUHHrtP1cA5XurjD3D3mo76kc2XpetgUzdWaEeKxJo8X6ypqCq6Drxcrgox0M`
+
 -> First stage decoding : 
 
 ```
