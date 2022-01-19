@@ -1,7 +1,11 @@
 # Solving-the-hidden-riddle
 # Solving the riddle by syzygy.one
 
-First command : syzygy (First step)
+https://twitter.com/everdotxyz/status/1483484094084235266
+
+Solved : https://oracle.ever.xyz/ (First step)
+
+First command : syzygy (Second step)
 
 Response : `MzsxOzE0OzIzOzU7MjA7MTsxMTs1OzIwOzg7OTsxOTsyMDsxNTsyMDs4OzU7MTQ7NTsyNDsyMDsxMjs1OzIyOzU7MTI=`
 
@@ -9,7 +13,7 @@ Decoding : `respond canwetakethistothenextlevel`
 
 ![image](https://user-images.githubusercontent.com/59114783/150153755-8b189f5d-2611-4706-8444-bace62f1cfb2.png)
 
-Second command : `respond canwetakethistothenextlevel` (Second step)
+Second command : `respond canwetakethistothenextlevel` (Third step)
 
 ![image](https://user-images.githubusercontent.com/59114783/150154453-0856ee01-f8f2-4587-8c67-1d6a98392e4e.png)
 
@@ -41,4 +45,4 @@ From one perspective is seen an aisle.
 
 =======
 
-What does this mean ? --> Solar eclipse / Eclipse (Third step)
+What does this mean ? --> Solar eclipse / Eclipse (Fourth step)
