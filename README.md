@@ -3,6 +3,8 @@
 
 https://twitter.com/everdotxyz/status/1483484094084235266
 
+Solution : Base64 -> The number of words in the alphabet chart
+
 Solved : https://oracle.ever.xyz/ 
 
 First command : syzygy 
@@ -47,3 +49,6 @@ What does this mean ?
 -> `syzygyofthesun,moonandearth` 
 
 === (awaiting further solutions)
+
+![image](https://user-images.githubusercontent.com/59114783/150456889-ccf3715a-73f0-4d5d-92a4-7ec30ef89f36.png)
+
