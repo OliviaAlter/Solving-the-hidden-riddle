@@ -42,6 +42,8 @@ Entices everyone but only for a short while,
 From one perspective is seen an aisle.
 ```
 
-=======
+What does this mean ? 
 
-What does this mean ? --> Solar eclipse / Eclipse ? 
+-> `syzygyofthesun,moonandearth` 
+
+=== (awaiting further solutions)
