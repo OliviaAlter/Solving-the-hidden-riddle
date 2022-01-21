@@ -48,7 +48,7 @@ What does this mean ?
 
 -> `syzygyofthesun,moonandearth` 
 
-=== (awaiting further solutions)
+Third command : `respond syzygyofthesun,moonandearth`
 
 ![image](https://user-images.githubusercontent.com/59114783/150456889-ccf3715a-73f0-4d5d-92a4-7ec30ef89f36.png)
 
