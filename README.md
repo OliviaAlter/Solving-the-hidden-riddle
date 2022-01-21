@@ -48,8 +48,15 @@ What does this mean ?
 
 -> `syzygyofthesun,moonandearth` 
 
-=== (awaiting further solutions)
+Third command : `respond syzygyofthesun,moonandearth`
 
 ![image](https://user-images.githubusercontent.com/59114783/150456889-ccf3715a-73f0-4d5d-92a4-7ec30ef89f36.png)
 
 -> `respond 19`
+
+![image](https://user-images.githubusercontent.com/59114783/150457542-50a57a93-977d-4119-bbba-6475cc05893e.png)
+
+Fourth command `endriddle`
+
+![image](https://user-images.githubusercontent.com/59114783/150457584-19e51517-6fb5-4bad-92df-6c8c8dda378b.png)
+
